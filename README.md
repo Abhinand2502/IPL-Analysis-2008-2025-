@@ -1,6 +1,6 @@
 # 🏏 IPL Analysis Dashboard (2008–2025)
 
-![Dashboard](ipl_Dashboard.png)
+![IPL Analysis Dashboard](ipl_Dashboard.png)
 ## 📌 Overview
 The IPL Analysis Dashboard is an interactive Power BI project that provides comprehensive insights into the Indian Premier League (IPL) from 2008 to 2025. The dashboard enables users to explore team performances, championship records, player achievements, and season statistics through dynamic visualizations and filters.
 
